@@ -1,0 +1,6 @@
+# User-specific stuff:
+.idea/
+configservice.iml
+
+# Java bits
+/target
