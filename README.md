@@ -2,6 +2,8 @@
 
 Service which provides config files and properties.
 
+https://cloud.spring.io/spring-cloud-config/
+
 ## Requires
 
 Consul
@@ -31,6 +33,8 @@ Rabbit MQ
 
 
 ## Run
+
+Altering the path for the file locations to where the properties file all reside.
 
 ```
   $ java -jar -Dspring.profiles.active=native \
